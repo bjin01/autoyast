@@ -1,0 +1,2 @@
+# autoyast
+autoyast and cobbler 
